@@ -1,6 +1,4 @@
-//SELENAY HUR
-//23080103374
-//Dr.Ogretim Görevlisi :SELMAN HIZAL
+
 
 #ifndef KONUM_HPP
 #define KONUM_HPP
